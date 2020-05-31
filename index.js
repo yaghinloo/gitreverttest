@@ -1,2 +1,3 @@
-// this is commit A
-var a = 1;
+// this is commit b
+var a = 11;
+var b = 2;
